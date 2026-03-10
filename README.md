@@ -1,6 +1,5 @@
 # Calculadora de IMC
 
-
 Projeto criado durante o curso **[B7web](https://b7web.com.br)**, com o objetivo de desenvolver uma calculadora de IMC que permita ao usuário informar peso e altura e receber, de forma clara e imediata, a classificação do índice de massa corporal.
 Utilizando **React** com componentização, **TypeScript** para maior organização do código e **CSS** para estilização da interface. Uma aplicação funcional e responsiva.
 
@@ -65,6 +64,9 @@ Copiar código:
 Copiar código:
 
 ``http://localhost:3000``
+
+
+*[Veja o Projeto](https://react-calc-imc-delta.vercel.app/)*
 
 
 
